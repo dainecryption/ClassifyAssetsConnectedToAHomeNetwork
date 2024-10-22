@@ -4,7 +4,7 @@
 
 <i>This scenario is based on a fictional event.</i>
 
-I'm operating a small business from my home and must create an inventory of my network devices. This will help me determine which ones contain sensitive information that require extra protection.
+I'm operating a small business from my home and must create [an inventory of my network devices](https://github.com/dainecryption/ClassifyAssetsConnectedToAHomeNetwork/blob/main/Home-Asset-Inventory.xlsx). This will help me determine which ones contain sensitive information that require extra protection.
 
 To do this, I will start by identifying three devices that have access to my home network. This might include devices such as:
 
